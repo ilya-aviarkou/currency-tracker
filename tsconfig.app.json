@@ -25,7 +25,9 @@
     "paths": {
       "@components/*": ["components/*"],
       "@constants/*": ["constants/*"],
-      "@pages/*": ["pages/*"]
+      "@pages/*": ["pages/*"],
+      "@theme/*": ["theme/*"],
+      "@images/*": ["../public/images/*"]
     }
   },
   "include": ["src"]
